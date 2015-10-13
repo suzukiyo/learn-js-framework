@@ -1,1 +1,1 @@
-# learn-js-framework
+# my-js-fw-template
